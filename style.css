@@ -137,7 +137,7 @@ nav {
   text-decoration: none;
   transition: border-color 0.2s, transform 0.15s;
 }
-.btn-outline:hover { border-color: var(--black); transform: translateY(-1px); }
+.btn-outline:hover { border-color: var(--black); transform: translateY(-1px); background-color:green;}
 
 /* HERO VISUAL CARD */
 .hero-card {
