@@ -5,7 +5,7 @@ let selectedService = '', selectedPrice = '', selectedPriceNum = 0;
 let selectedDate = '', selectedTime = '';
 let calYear, calMonth;
 const today = new Date();
-const ADMIN_PASS = 'derrick2024'; // 👈 Change this to a secure password
+const ADMIN_PASS = 'derek2026'; // 👈 Change this to a secure password
 let adminLoggedIn = false;
 let currentFilter = 'all';
 let currentRef = '';
